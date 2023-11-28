@@ -1,0 +1,17 @@
+th{
+    color: darkblue;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+td,tr{
+    color: darkred;
+    font-size: medium;
+    padding: 8px;
+    width: 5;
+}
+table,th,td{
+    text-align: center;
+    border: 8px groove;
+    border-collapse: collapse;
+}
